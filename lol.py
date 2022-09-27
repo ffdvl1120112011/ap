@@ -1,0 +1,1 @@
+import marshal\nimport dis\nmagic = b'a\r\r\n\x00\x00\x00\x00\xf6\x971a\x00\x00\x00\x00'
